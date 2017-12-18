@@ -1,6 +1,6 @@
-# Webjars sample application
+# WebJars Sample Application
 
-This app demonstrate how webjars works in Wildfly Swarm servlet container.
+This app demonstrate how WebJars works in Wildfly Swarm servlet container.
 
 To run: `mvn clean install`
 
